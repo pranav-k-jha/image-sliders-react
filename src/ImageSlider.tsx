@@ -99,3 +99,4 @@ const ImageSlider = ({ images }: ImageSliderProps) => {
 };
 
 export default ImageSlider;
+
