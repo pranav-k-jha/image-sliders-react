@@ -24,7 +24,7 @@ const App = () => {
       }}
     >
       <ImageSlider images={IMAGES} />
-      <a href="/" style={{fontSize: "4rem"}}>Link</a>
+      <a href="/" style={{fontSize: "4rem"}}>Link to next section</a>
     </div>
   );
 };
