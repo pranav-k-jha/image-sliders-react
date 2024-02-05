@@ -1,6 +1,6 @@
-# Image Slider React Component
+# Image Slider React
 
-A straightforward and accessible image slider React component equipped with navigation controls and pagination dots.
+Created a responsive and accessible image slider with React, TypeScript, and lucide-react icons. 
 
 ## Features
 
